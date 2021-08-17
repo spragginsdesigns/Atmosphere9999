@@ -1,14 +1,15 @@
-<h2>
-Websites | Content Information:</h2>
+<h1 style="text-align: center">
+Websites | Content Information:</h1>
 My Web Portfolio: https://www.austinspragginsportfolio.xyz<br>
 My YouTube Channel Official Website: https://www.shadowgaming.network<br>
 Official Shadow Gaming™ YouTube Channel: https://www.youtube.com/c/shadowgaming99<br>
 Codepen: https://codepen.io/austin-spraggins<br>
 
 
-- 👋 Hi, I’m @Atmosphere9999
-- 👀 I’m interested in Frontend Web Designer | Web Developer. Penetration Tester | Windows & Linux Administrator ...
-- 🌱 I’m currently learning Vue.js, React.js, Kali Linix (Web Application & Wireless Auditing | Bash Bunny Mark II Payloads | Password Cracking ...
+- 👋 Hi, I’m @Atmosphere9999 | Austin Spraggins | AgtShadow on Kali Linux | Shadow Gaming™ on YouTube
+- 🗂 My Profession is: Frontend Web Designer | IT Support Aide | Penetration Tester for IT Department as well. I work in the Web Design/Marketing/IT Departments at SCCCD
+- 👀 I’m interested in Frontend Web Designer | Frontend Web Developer | Penetration Tester | Windows & Linux Administrator | YT Partner Program ...
+- 🌱 I’m currently learning Vue.js, React.js, Kali Linix (Web Application & Wireless Auditing | Bash Bunny Mark II Payloads | Password Cracking & More ...
 - 💞️ I’m looking to collaborate on any Frontend Web Design/Development and Penetration Testing projects ...
 - 📫 How to reach me: austinspragginsportfolio.xyx | sales@shadowgaming.network | Contact Info is on my website or here on GitHub ...
 
